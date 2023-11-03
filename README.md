@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **php**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Amisha0971/MyProtfolio](https://github.com/Amisha0971/MyProtfolio)
+- 👨‍💻 All of my projects are available at [https://amisha0971.github.io/MyProtfolio/)
 
 - 💬 Ask me about **C,C++,JAVA**
 
