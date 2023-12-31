@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amisha Ninawe</h1>
 <h3 align="center">A passionate Full-Stack Web developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amisha0971&label=Profile%20views&color=0e75b6&style=flat" alt="amisha0971" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=amisha0971&label=Profile%20views&color=0e75b6&style=flat](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsteamcommunity.com%2Fsharedfiles%2Ffiledetails%2F%3Fid%3D2217383700&psig=AOvVaw14ux03YEb_bKYvum0TUaUN&ust=1704112974378000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCODMh9rZuYMDFQAAAAAdAAAAABBO)" alt="amisha0971" /> </p>
 
 - 🔭 I’m currently working on **SringBoot-Rest-API-Project**
 
