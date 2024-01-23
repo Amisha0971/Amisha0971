@@ -1,5 +1,5 @@
 ![logo](https://github.com/Amisha0971/Amisha0971/blob/main/AMISHA%20NINAWE%20(1).png)
-<h1 align="center">Hi 👋, I'm Amisha Ninawe</h1>
+<h1 align="center">Hi 👋, Myself Amisha Ninawe</h1>
 <h3 align="center">A Passionate Full-Stack Web Developer From India</h3>
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amisha0971&label=Profile%20views&color=0e75b6&style=flat" alt="amisha0971" /> </p>
