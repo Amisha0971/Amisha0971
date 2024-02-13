@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on **SringBoot-Rest-API-Project**
 
-- 🌱 I’m currently learning **Wordpress**
+- 🌱 I’m currently learning **Android**
 
 - 👨‍💻 All of my projects are available at (https://amisha0971.github.io/MyProtfolio/)
 
-- 💬 Ask me about **C,C++,JAVA,SPRING,PHP**
+- 💬 Ask me about **C,C++,JAVA,SPRING,PHP,WORDPRESS**
 
 - 📫 How to reach me **amishaninawe971@gmail.com**
 
