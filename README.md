@@ -1,4 +1,4 @@
-![logo](https://github.com/Amisha0971/Amisha0971/blob/main/AMISHA%20NINAWE%20(1).png)
+![logo](https://github.com/Amisha0971/Amisha0971/blob/main/Be%20gentle%20with%20yourself..png)
 <h1 align="center">Hey 👋, Myself Amisha Ninawe</h1>
 <h3 align="center">A Passionate Full-Stack Web Developer From India</h3>
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
