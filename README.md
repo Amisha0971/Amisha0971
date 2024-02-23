@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **SringBoot-Rest-API-Project**
 
-- 🌱 I’m currently learning **Android**
+- 🌱 I’m currently learning **ANDROID**
 
 - 👨‍💻 All of my projects are available at (https://amisha0971.github.io/MyProtfolio/)
 
