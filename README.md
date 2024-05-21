@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at (https://amisha0971.github.io/MyProtfolio/)
 
-- 💬 Ask me about ** C, C++, JAVA, SPRING, PHP, WORDPRESS **
+- 💬 Ask me about ** C, C++, JAVA, SPRING, PHP, WORDPRESS , ANDROID **
 
 - 📫 How to reach me **amishaninawe971@gmail.com**
 
