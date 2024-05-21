@@ -6,8 +6,6 @@
 
 - 🔭 I’m currently working on **E-COMMERCE WEBSITE**
 
-- 🌱 I’m currently learning **ANDROID**
-
 - 👨‍💻 All of my projects are available at (https://amisha0971.github.io/MyProtfolio/)
 
 - 💬 Ask me about ** C, C++, JAVA, SPRING, PHP, WORDPRESS **
