@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **amishaninawe971@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1gwLdEr2XEayEgvUvXpoAGuMoHy0dGzZD/edit?usp=sharing&ouid=112696521288858436999&rtpof=true&sd=true](https://docs.google.com/document/d/1gwLdEr2XEayEgvUvXpoAGuMoHy0dGzZD/edit?usp=sharing&ouid=112696521288858436999&rtpof=true&sd=true)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1NTCr2JvrM_3j5iZZBhKrtpTrOUpOMjqM/view?usp=sharing](https://drive.google.com/file/d/1NTCr2JvrM_3j5iZZBhKrtpTrOUpOMjqM/view?usp=sharing)
 
 - ⚡ Fun fact about me **I think I am quite hard to understand for others**
 
