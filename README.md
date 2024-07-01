@@ -1,4 +1,3 @@
-
 ![logo](https://github.com/Amisha0971/Amisha0971/blob/main/Be%20gentle%20with%20yourself..png)
 <h1 align="center">Hi 👋, I'm Amisha Ninawe</h1>
 <h3 align="center">A passionate Full-Stack Web developer from India</h3>
