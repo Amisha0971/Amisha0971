@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Software Development**
 
-- 🌱 I’m currently learning **Frameworks**
+- 🌱 I’m currently learning **MICROSOFT EXCEL**
 
 - 🤝 I’m looking for help with **AI Tools**
 
