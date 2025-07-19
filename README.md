@@ -1,26 +1,24 @@
 ![logo](https://github.com/Amisha0971/Amisha0971/blob/main/Be%20gentle%20with%20yourself..png)
 <h1 align="center">Hi 👋, I'm Amisha Ninawe</h1>
-<h3 align="center"A passionate Full-Stack Developer & Data Enthusiast from India</h3>
+<h3 align="center">A passionate Full-Stack Developer & Data Enthusiast from India</h3>
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amisha0971&label=Profile%20views&color=0e75b6&style=flat" alt="amisha0971" /> </p>
 
-- 🔭 I’m currently working on **personal growth and upskilling in technical areas to strengthen my career foundation**
+- 🔭 I’m currently working on **a personal portfolio site and Excel dashboards**
 
-- 🌱 I’m currently learning **MICROSOFT EXCEL**
+- 🌱 I’m currently learning **Microsoft Excel, Data Visualization**
 
 - 🤝 I’m looking for help with **AI Tools**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Amisha0971/MyProtfolio](https://github.com/Amisha0971/MyProtfolio)
 
-- 💬 Ask me about **C, C++, JAVA, SPRING, PHP, WORDPRESS , ANDROID**
+- 💬 Ask me about **C, C++, JAVA, SPRING, PHP, WORDPRESS , ANDROID ,EXCEL**
 
 - 📫 How to reach me **amishaninawe971@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1NTCr2JvrM_3j5iZZBhKrtpTrOUpOMjqM/view?usp=sharing](https://drive.google.com/file/d/1QrN-yNSwWa_825f8Le5Z3jSd-UBT1onJ/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1NTCr2JvrM_3j5iZZBhKrtpTrOUpOMjqM/view?usp=sharing](https://drive.google.com/file/d/1NTCr2JvrM_3j5iZZBhKrtpTrOUpOMjqM/view?usp=sharing)
 
-
-
-- ⚡ Fun fact about me **I think I am quite hard to understand for others**
+- ⚡ Fun fact about me **I’m addicted to learning and chai ☕**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -36,6 +34,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amisha0971&show_icons=true&locale=en" alt="amisha0971" /></p>
 
-<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amisha0971&" alt="amisha0971" /></p>-->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=amisha0971" alt="GitHub Streak" /></p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amisha0971&" alt="amisha0971" /></p>
