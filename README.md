@@ -50,7 +50,7 @@ https://github.com/Amisha0971/MyProtfolio
 
 - 📧 Email: **amishaninawe971@gmail.com**
 - 📄 Resume:  
-  https://drive.google.com/file/d/1eGdwIgtpvfDW7U6m3h0R1haWq6tanZJR/view
+  [https://drive.google.com/file/d/1eGdwIgtpvfDW7U6m3h0R1haWq6tanZJR/view](https://drive.google.com/file/d/1MNE9P2Z4hpZyHETuMIl4eHHiagAOZmid/view?usp=sharing)
 
 <h3>🌐Connect with Me</h3>
 
