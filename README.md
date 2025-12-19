@@ -27,19 +27,19 @@ Full-Stack Developer with a strong foundation in backend and frontend technologi
 <h3>🛠️Technical Skills</h3>
 
 <h4>💻Web Development</h4>
-- Languages: C, C++, Java, JavaScript, PHP, Python, Android
-- Frameworks: Spring Boot, Hibernate
-- Frontend: HTML, CSS, JavaScript
-- Backend: Java, PHP, Python
-- Databases: MySQL
+- Languages: C, C++, Java, JavaScript, PHP, Python, Android<br>
+- Frameworks: Spring Boot, Hibernate<br>
+- Frontend: HTML, CSS, JavaScript<br>
+- Backend: Java, PHP, Python<br>
+- Databases: MySQL<br>
 - Tools: Git, Postman, Firebase, WordPress
 
 <h4>📊Data Analytics</h4>
-- Microsoft Excel (Dashboards, Data Analysis)
-- SQL
-- Python for data analysis
-- Power BI Reports
-- Data visualization principles
+- Microsoft Excel (Dashboards, Data Analysis)<br>
+- SQL<br>
+- Python for data analysis<br>
+- Power BI Reports<br>
+- Data visualization principles<br>
 
 <h3>📂Projects</h3>
 
