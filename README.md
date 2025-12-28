@@ -69,6 +69,7 @@ https://github.com/Amisha0971/MyProtfolio
 
 <p>
   <img align="left"
+   src="https://github-readme-stats.vercel.app/api/top-langs?username=amisha0971&layout=compact" />
 </p>
 
 <p>&nbsp;
