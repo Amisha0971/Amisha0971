@@ -44,7 +44,7 @@ Full-Stack Developer with a strong foundation in backend and frontend technologi
 <h3>📂Projects</h3>
 
 🔗 GitHub Portfolio  
-https://github.com/Amisha0971/MyProtfolio
+(https://amisha0971.github.io/MyProtfolio/)
 
 <h3>📫Contact Information</h3>
 
