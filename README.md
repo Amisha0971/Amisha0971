@@ -50,7 +50,7 @@ Full-Stack Developer with a strong foundation in backend and frontend technologi
 
 - 📧 Email: **amishaninawe971@gmail.com**
 - 📄 Resume:  
-  (https://drive.google.com/file/d/1d4OZ6npoDNNmwzW6obp6x6qu62ijXlID/view?usp=sharing)
+  (https://drive.google.com/file/d/1ZboGbIvh6NZEJXrT8Ud2wOO5_7RWPmw6/view?usp=sharing)
 
 <h3>🌐Connect with Me</h3>
 
