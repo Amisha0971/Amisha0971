@@ -45,7 +45,6 @@ Full-Stack Developer with a strong foundation in backend and frontend technologi
 
 🔗 GitHub Portfolio  
 (https://amisha0971.github.io/MyProtfolio/)
-
 <h3>📫Contact Information</h3>
 
 - 📧 Email: **amishaninawe971@gmail.com**
