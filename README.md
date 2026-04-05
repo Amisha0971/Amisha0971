@@ -44,7 +44,7 @@ Aspiring Data Analyst with a background in web development. Skilled in SQL, Powe
 <h3>📂Projects</h3>
 
 🔗 GitHub Portfolio  
-(https://amisha0971.github.io/MyProtfolio/)
+(https://amisha0971.github.io/MyPortfolio/)
 <h3>📫Contact Information</h3>
 
 - 📧 Email: **amishaninawe971@gmail.com**
