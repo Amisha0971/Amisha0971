@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Amisha Ninawe</h1>
 <h3 align="center">
-💻 Full-Stack Developer | 📊 Aspiring Data Analyst | 🇮🇳 India
+📊 Aspiring Data Analyst | 💻 Web Developer | 🇮🇳 India
 </h3>
 
 <img align="right" alt="coding" width="360"
