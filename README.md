@@ -15,7 +15,7 @@ src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068
 
 <h3>👩‍💻Professional Summary</h3>
 
-Full-Stack Developer with a strong foundation in backend and frontend technologies, combined with expertise in data analysis and visualization. Experienced in building scalable applications and transforming data into meaningful insights.
+Aspiring Data Analyst with a background in web development. Skilled in SQL, Power BI, Python, and Excel for data analysis and visualization. Also experienced in building full-stack applications using Java, PHP, and Android.
 
 <h3>🎯Current Focus</h3>
 
