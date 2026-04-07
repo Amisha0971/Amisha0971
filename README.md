@@ -49,7 +49,7 @@ Aspiring Data Analyst with a background in web development. Skilled in SQL, Powe
 
 - 📧 Email: **amishaninawe971@gmail.com**
 - 📄 Resume:  
-  (https://drive.google.com/file/d/1VzMO1lMQpD9t_eYiR4Xidjj3MJDOPPIZ/view?usp=sharing)
+  (https://drive.google.com/file/d/1l0h23lvSBl56b3H6x3dxSZInzb1jEZcg/view?usp=sharing)
 
 <h3>🌐Connect with Me</h3>
 
